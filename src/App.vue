@@ -2,9 +2,12 @@
   <div class="min-h-screen bg-sky-gradient flex flex-col">
     <div class="container mx-auto px-4 py-8 flex-grow">
       <header class="text-center mb-8">
-        <h1 class="text-4xl font-bold text-nature-forest mb-2">
-          🌿 VM Weather App
-        </h1>
+        <div class="flex items-center justify-center gap-3 mb-2">
+          <img src="/logo.svg" alt="VM Weather App Logo" class="w-12 h-12">
+          <h1 class="text-4xl font-bold text-nature-forest">
+            VM Weather App
+          </h1>
+        </div>
         <p class="text-nature-earth">Stay connected with nature's forecast</p>
       </header>
 
